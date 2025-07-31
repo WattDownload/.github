@@ -23,7 +23,7 @@
 ---
 
 ## What are these?
-Applications to download your favorite stories from Wattpad (WP) to EPUB v3 format. Our tools work on **Windows**, **Linux**, **macOS**, and **Android**.
+Applications to download your favorite stories from WP to EPUB v3 format. Our tools work on **Windows**, **Linux**, **macOS**, and **Android**.
 
 ## Why use WattDownload Apps?
 - **Blazing Fast:** Built with asynchronous Rust, WattDownload apps are significantly faster than other solutions. Download massive stories in under a minute!
