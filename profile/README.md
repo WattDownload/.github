@@ -17,24 +17,30 @@
 </div>
 
 ---
-## What?
- - Applications to download your favourite stories from wp to epub (version 3) in `Windows`, `Linux`, `MacOS`, `Android`.
 
-## Why?
- - Of course you've https://wpd.my - but this's much faster. With blazing fast async Rust!
- - No one can stop you once you have it installed in your device...
+## What are these?
+Applications to download your favorite stories from Wattpad (WP) to EPUB v3 format. Our tools work on **Windows**, **Linux**, **macOS**, and **Android**.
+
+## Why use WattDownload Apps?
+- **Blazing Fast:** Built with asynchronous Rust, WattDownload apps are significantly faster than other solutions. Download massive stories in under a minute!
+- **True Offline Access:** Once a story is on your device, it's yours to read anytime, anywhere, without restrictions.
 
 ## Disclaimer
- - Downloading content from WP is prohibited by WP [Terms of Services](). USE AT YOUR OWN RISK!
+> [!WARNING]
+> Downloading stories may violate Wattpad's [Terms of Service](https://policies.wattpad.com/terms/). These tools are provided for educational and personal backup purposes only. **USE AT YOUR OWN RISK.**
 
-## Current Available Features (Windows, Linux, MacOS, Android)
- - Download any story from WP - even those you purchased to epub version 3!
- - The fastest - Only takes around 30-40 seconds for the biggest stories!
- - Can opt-out image downloads
+## Features
+- ✅ **Universal Access:** Download any story from Wattpad, including paid content you've purchased.
+- 🚀 **Optimized for Speed:** The fastest downloader available, capable of saving a massive story in 30-40 seconds.
+- ⚙️ **Customizable Downloads:** Choose to download stories without images to save space and data.
+- 📚 **Standard Format:** All stories are saved in the widely compatible EPUB 3 format.
+
+## Showcase
+ - pictures, videos goes here
 
 ---
 
 > [!NOTE]
-> `Wattpad` is subject to registered tredmark of `Wattpad` & `Webtoon Entertainment Inc.`.
+> `Wattpad` is a registered trademark of `Wattpad Corp` & `Webtoon Entertainment Inc.`. This project is not affiliated with, endorsed, or sponsored by Wattpad.
 
 <p align="center">© 2025 WattDownload.</p>
