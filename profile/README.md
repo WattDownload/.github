@@ -12,7 +12,7 @@
 
 <div align="center">
   <a href="https://github.com/WattDownload/wp-epub-rs-emini-android">
-    <img src="https://img.shields.io/badge/Download%20Android%20now!-darkgreen?style=for-the-badge&logo=android" alt="Download Android App">
+    <img src="https://img.shields.io/badge/Download%20For%20Android%20now!-darkgreen?style=for-the-badge&logo=android" alt="Download Android App">
   </a>
 </div>
 
