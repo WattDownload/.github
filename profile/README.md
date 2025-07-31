@@ -34,6 +34,6 @@
 ---
 
 > [!NOTE]
-> `Wattpad` is subject to registered tredmark of `Wattpad & Webtoon Entertainment Inc.`.
+> `Wattpad` is subject to registered tredmark of `Wattpad` & `Webtoon Entertainment Inc.`.
 
 <p align="center">© 2025 WattDownload.</p>
