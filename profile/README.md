@@ -21,7 +21,8 @@
  - Applications to download your favourite stories from wp to epub (version 3) in `Windows`, `Linux`, `MacOS`, `Android`.
 
 ## Why?
- - Of course you've https://wpd.my - but this's much faster. With blazing fast async Rust! Plus no one can stop you once you have it installed in your device...
+ - Of course you've https://wpd.my - but this's much faster. With blazing fast async Rust!
+ - No one can stop you once you have it installed in your device...
 
 ## Disclaimer
  - Downloading content from WP is prohibited by WP [Terms of Services](). USE AT YOUR OWN RISK!
