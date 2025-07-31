@@ -23,7 +23,7 @@ Applications to download your favorite stories from Wattpad (WP) to EPUB v3 form
 
 ## Why use WattDownload Apps?
 - **Blazing Fast:** Built with asynchronous Rust, WattDownload apps are significantly faster than other solutions. Download massive stories in under a minute!
-- **True Offline Access:** Once a story is on your device, it's yours to read anytime, anywhere, without restrictions.
+- **True Access**: With a WattDownload app on your device, you don't have to wait for a website to come back online.
 
 ## Disclaimer
 > [!WARNING]
