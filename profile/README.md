@@ -11,7 +11,7 @@
 ---
 
 <div align="center">
-  <a href="https://github.com/WattDownload/wp-epub-rs-emini-android">
+  <a href="https://github.com/WattDownload/wp-epub-rs-emini/releases/latest">
     <img src="https://img.shields.io/badge/Download%20For%20Android%20or%2020Desktop%20now!-darkgreen?style=for-the-badge&logo=abdownloadmanager&logoColor=f5f5f5" alt="Download Android App">
   </a>
 </div>
