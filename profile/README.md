@@ -40,6 +40,10 @@ Applications to download your favorite stories from WP to EPUB v3 format. Our to
 
 ---
 
+> There's a mirror repo in [git.gay/WattDownload](https://git.gay/WattDownload/wp-epub-rs-emini)
+
+---
+
 > [!NOTE]
 > `Wattpad` is a registered trademark of `Wattpad Corp` & `Webtoon Entertainment Inc.`. This project is not affiliated with, endorsed, or sponsored by Wattpad.
 
