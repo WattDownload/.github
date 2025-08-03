@@ -36,7 +36,10 @@ Applications to download your favorite stories from WP to EPUB v3 format. Our to
 - 📚 **Standard Format:** All stories are saved in the widely compatible EPUB 3 format.
 
 ## Showcase
- - pictures, videos goes here
+ - Android
+ - JVM
+
+https://github.com/user-attachments/assets/6e82db83-1bde-4295-b27a-f8cc989df8d6
 
 ---
 
