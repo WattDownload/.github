@@ -18,6 +18,9 @@
 
 ---
 
+> [!IMPORTANT]
+> We've fixed: `INCORRECT CHATACTER ENCODING IN STORT TITLE`
+
 ## What are these?
 Applications to download your favorite stories from WP to EPUB v3 format. Our tools work on **Windows**, **Linux**, **macOS**, and **Android**.
 
