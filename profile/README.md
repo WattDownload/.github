@@ -34,9 +34,11 @@ Applications to download your favorite stories from WP to EPUB v3 format. Our to
 
 ## Features
 - ✅ **Universal Access:** Download any story from Wattpad, including paid content you've purchased.
-- 🚀 **Optimized for Speed:** The fastest downloader available, capable of saving a massive story in 30-40 seconds.
+- 🔒 **No Geo-Restrictions:** Bypass geo restrictions and download. 
+- 🚀 **Optimized for Speed:** The fastest downloader available, capable of saving a massive story (like 250MB) in 10-20 seconds.
 - ⚙️ **Customizable Downloads:** Choose to download stories without images to save space and data.
 - 📚 **Standard Format:** All stories are saved in the widely compatible EPUB 3 format.
+- ⬇️ **Massive Downloads:** Download massive stories (like 1GB) easily. 
 
 ## Showcase
  - Android
@@ -45,6 +47,14 @@ https://github.com/user-attachments/assets/1e0de71b-f472-483b-b5fe-2017c144bef9
  - JVM
 
 https://github.com/user-attachments/assets/6e82db83-1bde-4295-b27a-f8cc989df8d6
+
+ - Web
+
+ - Telegram Bot
+   
+https://github.com/user-attachments/assets/1abcb6f7-fa3c-4b35-ba95-a576e5a6e8d1
+ - Chromium Extension
+<img width="1280" height="800" alt="image" src="https://github.com/user-attachments/assets/e35db59c-f2be-4c30-be5d-9b6c6c30c028" />
 
 ---
 
