@@ -50,6 +50,7 @@ https://github.com/user-attachments/assets/6e82db83-1bde-4295-b27a-f8cc989df8d6
 
  - Web
 
+https://github.com/user-attachments/assets/0236746f-ee6d-4f66-b81b-fa512cc85707
  - Telegram Bot
    
 https://github.com/user-attachments/assets/1abcb6f7-fa3c-4b35-ba95-a576e5a6e8d1
