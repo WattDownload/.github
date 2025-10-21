@@ -40,7 +40,7 @@ Applications to download your favorite stories from WP to EPUB v3 format. Our to
 ## Showcase
  - Android
 
-https://github.com/user-attachments/assets/1e0de71b-f472-483b-b5fe-2017c144bef9
+
  - JVM
 
 
@@ -49,7 +49,7 @@ https://github.com/user-attachments/assets/1e0de71b-f472-483b-b5fe-2017c144bef9
 https://github.com/user-attachments/assets/0236746f-ee6d-4f66-b81b-fa512cc85707
  - Telegram Bot
    
-https://github.com/user-attachments/assets/1abcb6f7-fa3c-4b35-ba95-a576e5a6e8d1
+
  - Chromium Extension
 <img width="1280" height="800" alt="image" src="https://github.com/user-attachments/assets/9236aac9-32e7-40cc-8827-7fe770c890e7" />
 
