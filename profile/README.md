@@ -18,11 +18,8 @@
 
 ---
 
-> [!IMPORTANT]
-> We've fixed: `INCORRECT CHATACTER ENCODING IN STORY TITLE`
-
 ## What are these?
-Applications to download your favorite stories from WP to EPUB v3 format. Our tools work on **Windows**, **Linux**, **macOS**, and **Android**.
+Applications to download your favorite stories from WP to EPUB v3 format. Our tools work on **Windows**, **Linux**, **macOS**, and **Android**, **Web App**, **Telegram Bot**.
 
 ## Why use WattDownload Apps?
 - **Blazing Fast:** Built with asynchronous Rust, WattDownload apps are significantly faster than other solutions. Download massive stories in under a minute!
@@ -46,7 +43,6 @@ Applications to download your favorite stories from WP to EPUB v3 format. Our to
 https://github.com/user-attachments/assets/1e0de71b-f472-483b-b5fe-2017c144bef9
  - JVM
 
-https://github.com/user-attachments/assets/6e82db83-1bde-4295-b27a-f8cc989df8d6
 
  - Web
 
@@ -55,7 +51,7 @@ https://github.com/user-attachments/assets/0236746f-ee6d-4f66-b81b-fa512cc85707
    
 https://github.com/user-attachments/assets/1abcb6f7-fa3c-4b35-ba95-a576e5a6e8d1
  - Chromium Extension
-<img width="1280" height="800" alt="image" src="https://github.com/user-attachments/assets/e35db59c-f2be-4c30-be5d-9b6c6c30c028" />
+<img width="1280" height="800" alt="image" src="https://github.com/user-attachments/assets/9236aac9-32e7-40cc-8827-7fe770c890e7" />
 
 ---
 
