@@ -30,7 +30,7 @@ Applications to download your favorite stories from WP to EPUB v3 format. Our to
 > Downloading stories may violate Wattpad's [Terms of Service](https://policies.wattpad.com/terms/). These tools are provided for educational and personal backup purposes only. **USE AT YOUR OWN RISK.**
 
 ## Features
-- ✅ **Universal Access:** Download any story from Wattpad, including paid content you've purchased.
+- ✅ **Universal Access:** Download any story from WP, including paid content you've purchased.
 - 🔒 **No Geo-Restrictions:** Bypass geo restrictions and download. 
 - 🚀 **Optimized for Speed:** The fastest downloader available, capable of saving a massive story (like 250MB) in 10-20 seconds.
 - ⚙️ **Customizable Downloads:** Choose to download stories without images to save space and data.
